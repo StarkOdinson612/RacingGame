@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    border: 2px solid black;
+  }
+  h2 {
+    font-family:Impact, sans-serif;
+    font-size: 30px;
+  }
+  .hidden {
+    display: none;
+  }
+  
+  
